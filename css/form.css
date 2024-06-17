@@ -34,6 +34,75 @@
     margin-top: 1rem;
 }
 
+
+
+#nome.formcontato__input{
+    width: 100%;
+    color: var(--preto-50, #A2A2A2);
+    font-family: Raleway;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+ 
+    display: flex;
+    padding: 12px 12px;
+    align-items: center;
+    margin-bottom: 32px;
+    border-radius: 6px;
+
+}
+
+#email.formcontato__input{
+    width: 100%;
+    color: var(--preto-50, #A2A2A2);
+    font-family: Raleway;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+
+    display: flex;
+    padding: 12px 12px;
+    align-items: center;
+    margin-bottom: 32px;
+    border-radius: 6px;
+}
+
+#assunto.formcontato__input{
+    width: 100%;
+    color: var(--preto-50, #A2A2A2);
+    font-family: Raleway;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+
+    display: flex;
+    padding: 12px 12px;
+    align-items: center;
+    margin-bottom: 32px;
+    border-radius: 6px;
+}
+
+#mensagem.formcontato__textarea{
+    width: 100%;
+    color: var(--preto-50, #A2A2A2);
+    font-family: Raleway;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+
+    display: flex;
+    padding: 12px 12px;
+    align-items: center;
+    margin-bottom: 32px;
+    border-radius: 6px;
+}
+
+
+
 .formcontato__form__input {
     position: relative;
     padding: 0.75rem;
